@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0130-surrounded-regions) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -23,4 +24,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0130-surrounded-regions) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Sorting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
