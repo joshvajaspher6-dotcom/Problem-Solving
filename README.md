@@ -53,4 +53,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0542-01-matrix) |
+| [1143-longest-common-subsequence](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1143-longest-common-subsequence) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
