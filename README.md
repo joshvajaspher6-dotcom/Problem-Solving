@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0130-surrounded-regions](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0137-single-number-ii) |
 | [0200-number-of-islands](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0200-number-of-islands) |
@@ -116,10 +117,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0455-assign-cookies) |
 ## Sliding Window
 |  |
