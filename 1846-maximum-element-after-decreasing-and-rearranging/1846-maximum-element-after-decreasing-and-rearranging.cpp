@@ -9,20 +9,23 @@ public:
             arr[0]=1;
             
         }
+        int maxi =1;
         for (int i=1;i<n;i++)
         {
             if(abs(arr[i]-arr[i-1])<=1)
             {
+                maxi = max(maxi,arr[i]);
                 continue;
             }
             else
             {
                 arr[i]=arr[i-1]+1;
+                maxi=max(maxi,arr[i]);
               
             }
         }
             
-        return *max_element(arr.begin(),arr.end());
+        return maxi;
         
     }
 };
