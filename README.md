@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0127-word-ladder) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1748-sum-of-unique-elements](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1748-sum-of-unique-elements) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1143-longest-common-subsequence) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Graph Theory
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
