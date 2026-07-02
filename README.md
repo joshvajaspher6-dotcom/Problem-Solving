@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Depth-First Search
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1319-number-of-operations-to-make-network-connected](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1091-shortest-path-in-binary-matrix](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1319-number-of-operations-to-make-network-connected](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0787-cheapest-flights-within-k-stops](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
@@ -204,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0787-cheapest-flights-within-k-stops](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Stack
 |  |
 | ------- |
