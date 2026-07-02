@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0200-number-of-islands) |
 | [0455-assign-cookies](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0904-fruit-into-baskets) |
 | [1020-number-of-enclaves](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1020-number-of-enclaves) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0785-is-graph-bipartite) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0785-is-graph-bipartite) |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1020-number-of-enclaves) |
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0455-assign-cookies) |
+| [0721-accounts-merge](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0721-accounts-merge) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting
@@ -109,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0127-word-ladder](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0127-word-ladder) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0721-accounts-merge](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0721-accounts-merge) |
 | [0904-fruit-into-baskets](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -128,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0127-word-ladder](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0127-word-ladder) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0721-accounts-merge](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0721-accounts-merge) |
 | [0844-backspace-string-compare](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
